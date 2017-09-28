@@ -1,0 +1,8 @@
+北门   	sdfgh   6 1 1 
+狮子山 	sdfg   7 1 0
+仙云石   wertyu  2 0 1
+一线天   asfdgf  1 0 1
+飞流瀑   esfdgh  3 1 1
+仙武湖   werth   4 0 0
+九曲桥   wtydf   5 1 1
+观云台   ertyu   8 1 0

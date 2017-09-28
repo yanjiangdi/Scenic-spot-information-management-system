@@ -1,0 +1,5 @@
+a asdfg 3 1 1 
+b sdfgh 4 1 0
+c asdfg 1 0 1
+d werty 2 1 0
+e qwert 5 0 0
